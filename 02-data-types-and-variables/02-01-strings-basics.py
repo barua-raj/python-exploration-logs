@@ -1,6 +1,7 @@
 name = str("Mr. James Bond.")
 city = str("He lives in the United Kingdom.")
-age = str ("30")
+age = int ("30")
 print(name)
 print(city)
 print(age)
+type(name)
